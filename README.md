@@ -13,7 +13,7 @@
   <img src="readme_assets/lexon-thumbnail.png" width="75%" alt="Lexon AI overview thumbnail" />
 </p>
 
-Lexon AI is a transparent answer system that solves the "AI black box" problem. Every answer is fully verifiable through source attribution and an interactive 3D evidence graph that visualizes exactly how conclusions are reached.
+Lexon AI is a transparent answer system that solves the "AI black box" problem. Every answer is fully verifiable through source attribution and an interactive 3D evidence graph that visualizes exactly how conclusions are reached. This is a edit
 
 **Built for MadHacks 2025.**
 
