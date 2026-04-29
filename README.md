@@ -13,7 +13,7 @@
   <img src="readme_assets/lexon-thumbnail.png" width="75%" alt="Lexon AI overview thumbnail" />
 </p>
 
-Lexon AI is a transparent answer system that solves the "AI black box" problem. Every answer is fully verifiable through source attribution and an interactive 3D evidence graph that visualizes exactly how conclusions are reached. This is a edit
+Lexon AI is a transparent answer system that solves the "AI black box" problem. Every answer is fully verifiable through source attribution and an interactive 3D evidence graph that visualizes exactly how conclusions are reached.
 
 **Built for MadHacks 2025.**
 
@@ -128,9 +128,8 @@ The **expand** function transforms a source node into a richer concept subgraph,
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/lexon-ai.git
-cd lexon-ai
+git clone https://github.com/quinnhasse-test/LexonAI.git
+cd LexonAI
 
 # Install backend dependencies
 cd backend
@@ -187,7 +186,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ## Project Structure
 
 ```
-lexon-ai/
+LexonAI/
 ├── backend/                      # Node.js/TypeScript API server
 │   ├── src/
 │   │   ├── index.ts              # Express server entry
@@ -306,4 +305,4 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 ---
 
-**Built with transparency at MadHacks 2025**
+**Built at MadHacks 2025**
